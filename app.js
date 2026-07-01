@@ -229,7 +229,7 @@ const navExtrasMenuConfig = [
   {
     title: 'Communities',
     links: [
-      { label: 'Discord Server', href: 'https://discord.tutz.xyz', target: '_blank' },
+      { label: 'Discord Server', href: '/discord-redirect.html', target: '_blank' },
     ]
   },
   {
